@@ -1,0 +1,4 @@
+# Build-time dependencies only - the app itself needs nothing beyond the standard library.
+pyinstaller==6.22.3
+pymupdf==2.1
+pillow==13.0.0
